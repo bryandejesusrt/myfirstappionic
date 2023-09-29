@@ -1,0 +1,9 @@
+.image-profile {
+  width: 200px;
+  height: 250px;
+  margin: 0 auto;
+}
+.image-profile img {
+  border-radius: 50%;
+  max-width: 500px;
+}
