@@ -30,7 +30,7 @@ const video: React.FC = () => {
                 <iframe
                   width="100%"
                   height="315"
-                  src="https://www.youtube.com/embed/j8lORecfqK8"
+                  src="https://youtu.be/hmL2a8puGAA"
                   title="Video explicativo"
                   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                   allowFullScreen
