@@ -1,6 +1,6 @@
-# Mi Primera App con Ionic y React: 911App 🐺📱  
+# Mi Primera App con Ionic y React 🐺📱  
 ¡Bienvenido a mi emocionante viaje de desarrollo! Este proyecto, 911App, representa mi primera incursión en la creación de aplicaciones con Ionic y React. Aquí, compartiré contigo las experiencias clave:  </br>
- ![segundo parcial](https://github.com/bryandejesusrt/myfirstappionic/assets/71520172/c44271b1-492f-4135-9e2a-d16aff98b972)
+![primer app con ionic](https://github.com/bryandejesusrt/myfirstappionic/assets/71520172/d7393717-86e5-44f6-b272-601b716d4281)
 
 ## Historia de Desarrollo 🛠️  
 - **Aprendizaje de Ionic:**
